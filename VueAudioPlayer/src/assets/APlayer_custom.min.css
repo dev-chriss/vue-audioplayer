@@ -1,0 +1,62 @@
+/*
+PlayList
+*/
+
+.aplayer[data-v-02d7b6ba] {
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .62);
+    border-radius: 3px;
+}
+
+
+/*
+Header PlayList
+*/
+
+.aplayer-withlist[data-v-02d7b6ba].aplayer[data-v-02d7b6ba] .aplayer-info[data-v-02d7b6ba] {
+    border-bottom: 0px;
+    margin: 5px
+}
+
+
+/*
+Inner PlayList
+*/
+
+.aplayer-withlist[data-v-02d7b6ba].aplayer[data-v-02d7b6ba] .aplayer-list {}
+
+
+/*
+Music picture
+*/
+
+.aplayer-pic[data-v-745f8f02] {
+    margin: 5px
+}
+
+
+/*
+Music title
+*/
+
+.aplayer-info[data-v-671518ac] .aplayer-music[data-v-671518ac] {
+    padding-left: 4px
+}
+
+
+/*
+Music progress bar
+*/
+
+.aplayer-info[data-v-671518ac] .aplayer-controller[data-v-671518ac] {
+    padding-left: 2px;
+}
+
+
+/*
+Selected Row
+*/
+
+li[data-v-65fd566a].aplayer-list-light[data-v-65fd566a] {
+    background: #eafeea;
+}

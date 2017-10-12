@@ -1,0 +1,10 @@
+<!-- enctype="multipart/form-data" -->
+<form id="uploadForm"
+      enctype="multipart/form-data"
+      action="http://localhost:1337/file/upload"
+      method="post">
+      Title : <input type="text" name="title"><br>
+      Author : <input type="text" name="author"><br>
+    	File : <input type="file" name="uploadFile" accept=".opus" required/>
+    	<input type="submit" value="submit"/>
+</form>

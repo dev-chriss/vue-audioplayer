@@ -1,0 +1,1 @@
+module.exports.paths = { "tmp" : ".tmp", "public" : "assets" }
