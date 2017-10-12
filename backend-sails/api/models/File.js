@@ -24,10 +24,6 @@ module.exports = {
 	      type: 'string',
 	      required: false
 	    },
-	    lrc: {
-	      type: 'string',
-	      required: false
-	    },
 			filename: {
 	      type: 'string',
 	      required: false
