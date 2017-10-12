@@ -20,10 +20,6 @@ module.exports = {
 	      type: 'string',
 	      required: true
 	    },
-	    pic: {
-	      type: 'string',
-	      required: false
-	    },
 			filename: {
 	      type: 'string',
 	      required: false
