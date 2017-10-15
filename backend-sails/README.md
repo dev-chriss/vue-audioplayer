@@ -1,6 +1,6 @@
 # sails-backend
 
-a [Sails](http://sailsjs.org) application
+a nodejs [Sails](http://sailsjs.org) application
 
 ## Build Setup
 
