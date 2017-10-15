@@ -1,6 +1,8 @@
 # vuejs
 
-> A Vue.js project
+> A Vue.js 2 project
+
+#LIVE DEMO : http://vue2-audioplayer.setyawan.pro
 
 ## Build Setup
 
@@ -15,7 +17,6 @@ npm run dev
 npm run build
 
 ```
-
 #### After npm install, please copy this 2 files into node_modules folder
 
 * [APlayer.min.js](https://github.com/chrissetyawan/vue-audioplayer/blob/master/frontend-vue/APlayer.min.js) copy to folder '../node_modules/vue-aplayer-plugin/dist'
