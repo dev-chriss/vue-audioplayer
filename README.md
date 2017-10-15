@@ -1,15 +1,11 @@
-# vue-audioplayer
-Sails-Vue Audio Player
+# Sails-Vue Audio Player
 
-**Login credentials:**  
 
-- nodejs sails live demo : http://sails-audioplayer.setyawan.pro:1337
-  ```bash
-  nodejs sails is the backend api for receiving files and give data playlist to frontend 
-  ```
+**nodejs sails backend : **  
+nodejs sails is the backend api for receiving files and give data playlist to frontend 
+nodejs sails live demo : http://sails-audioplayer.setyawan.pro:1337
+
   
-- vue live demo : http://vue2-audioplayer.setyawan.pro
-  ```bash
-  Vue is the player at frontend
-  ```
- 
+**vuejs frontend : **  
+Vue is the player at frontend
+vue live demo : http://vue2-audioplayer.setyawan.pro
