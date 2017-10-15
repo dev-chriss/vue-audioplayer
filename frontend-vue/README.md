@@ -3,7 +3,7 @@
 > A Vue.js 2 project
 
 
-# live demp : http://vue2-audioplayer.setyawan.
+## live demo : http://vue2-audioplayer.setyawan.
 
 
 ## Build Setup
