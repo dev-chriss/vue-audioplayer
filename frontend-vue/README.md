@@ -1,6 +1,6 @@
 # Vuejs 2
 
-#### live demo : http://vue2-audioplayer.setyawan
+#### live demo : http://vue2-audioplayer.setyawan.pro
 
 
 ## Build Setup
