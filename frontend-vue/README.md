@@ -1,9 +1,9 @@
-# vuejs
+# vuejs 2
 
 > A Vue.js 2 project
 
 
-# LIVE DEMO : http://vue2-audioplayer.setyawan.
+# live demp : http://vue2-audioplayer.setyawan.
 
 
 ## Build Setup
