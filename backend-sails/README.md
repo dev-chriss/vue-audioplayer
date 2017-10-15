@@ -1,6 +1,6 @@
-# sails-backend
+# nodejs sails backend
 
-a nodejs [Sails](http://sailsjs.org) application
+#### live demo : http://sails-audioplayer.setyawan.pro:1337
 
 ## Build Setup
 
