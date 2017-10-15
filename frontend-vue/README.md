@@ -1,7 +1,4 @@
-# vuejs 2
-
-> A Vue.js 2 project
-
+# Vuejs 2
 
 #### live demo : http://vue2-audioplayer.setyawan
 
