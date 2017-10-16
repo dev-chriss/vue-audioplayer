@@ -13,7 +13,7 @@
     <div class="container">
       <br>
       <h1>Vue AudioPlayer</h1>
-      <p>Vue 2 - AudioPlayer can play opus, ogg, mp3 and others</p>
+      <p>Vue 2 - AudioPlayer can play .opus, .ogg, .mp3 and others</p>
       <br>
 
       <div style="margin-top:50px;">
