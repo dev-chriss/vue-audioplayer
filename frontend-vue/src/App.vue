@@ -53,8 +53,8 @@ export default {
   data () {
     return {
       // file uploader
-      maxsize:153600000,
-      accept:".opus",
+      maxsize:10000000, // don't allow the total upload size to exceed ~10MB
+      accept:".opus, .mp3, .mp4, .wav, .ogg",
       btnlabel:"Add file",
       url: appconfig.API + '/file/upload',
       filesUploaded: null,
@@ -64,17 +64,6 @@ export default {
       mode: 'single',
       listmaxheight: '300px',
       music: [
-        {
-          title: 'output.opus',
-          author: 'smartwalkie',
-          url: './static/audio/output.opus',
-          pic: './static/img/smartwalkie.jpg'
-        },
-        {
-          url: './static/audio/input.opus',
-          title: 'input.opus',
-          author: 'smartwalkie',
-        },
         {
           url: './static/audio/test1.opus',
           title: 'test1.opus',

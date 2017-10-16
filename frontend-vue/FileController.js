@@ -31,7 +31,7 @@ module.exports = {
             fs.createReadStream(tempLocation).pipe(fs.createWriteStream(uploadLocation));
 
             /*
-            / additional task here
+            / convert here
             */
 
             // at this point the file is phisicaly available and decoded in the hard drive
