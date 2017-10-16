@@ -11,6 +11,9 @@ module.exports = {
 			var uploadFile = req.file('file');
 	
   		uploadFile.upload(function onUploadComplete(err, files) {	
+          // don't allow the total upload size to exceed ~10MB
+          maxBytes: 10000000;
+        
 					//	IF ERROR Return and send 500 error with error
 		      if (err) return res.serverError(err);
 	
@@ -28,7 +31,7 @@ module.exports = {
 					fs.createReadStream(tempLocation).pipe(fs.createWriteStream(uploadLocation));
 					
 					/*
-					/ convert here
+					/ additional task here
 					*/
 					
 					// at this point the file is phisicaly available and decoded in the hard drive
