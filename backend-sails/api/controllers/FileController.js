@@ -6,9 +6,7 @@
  */
 
 module.exports = {
-<<<<<<< HEAD
-    upload: function(req, res) {
-=======
+
 	upload: function(req, res) {
 		
 			var uploadFile = req.file('file');
